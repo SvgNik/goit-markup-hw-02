@@ -23,8 +23,12 @@ ol {
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #2E2F42;
+        color: #4d5ae5;
         text-decoration: none;
+}
+
+.header-n-logo {
+    color: #2e2f42;
 }
 
 .nav-links {
@@ -55,9 +59,22 @@ ol {
     color: #434455
 }
 
+.contact-links:hover,
+.contact-links:focus {
+    color: #404BBF;
+}
+
 .hero {
     background-color: #2E2F42;
     text-align: center;
+}
+
+.hero-text{
+        font-size: 56px;
+        line-height: 1.7;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #FFFFFF;
 }
 .hero-button {
     font-family: 'Roboto', sans-serif;
@@ -120,9 +137,11 @@ ol {
         letter-spacing: 0.02em;
         text-align: center;
         color: #2E2F42;
-}
+        text-transform: capitalize;
+    }
 .team-list {
     list-style: none;
+    background-color: #FFFFFF;
 }
 
 .team-name {
@@ -181,4 +200,12 @@ footer {
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #F4F4FD;
+}
+
+.footer-logo {
+    color: #4d5ae5;
+}
+
+.footer-n-logo {
+    color: #f4f4fd
 }
