@@ -97,16 +97,26 @@ ol {
     padding: 120px 0;
 }
 
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
 .benefits-list {
     list-style: none;
     padding: 0;
     margin: 0;
 }
-.benefits-item {
 
-}
-
-.benefits-item-title {
+.benefits-subtitle{
     font-family: 'Roboto', sans-serif;
         font-weight: 500;
         font-size: 20px;
@@ -115,7 +125,7 @@ ol {
         color: #2E2F42;
 }
 
-.benefits-item-text {
+.benefits-text {
     font-family: 'Roboto', sans-serif;
         font-weight: 400;
         font-size: 16px;
