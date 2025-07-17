@@ -70,8 +70,8 @@ ol {
 }
 
 .hero-text{
+    line-height: 1.07;
         font-size: 56px;
-        line-height: 1.7;
         letter-spacing: 0.02em;
         text-align: center;
         color: #FFFFFF;
@@ -141,6 +141,9 @@ ol {
     }
 .team-list {
     list-style: none;
+}
+
+.team-item {
     background-color: #FFFFFF;
 }
 
@@ -193,13 +196,19 @@ footer {
     background-color: #2E2F42;
 }
 
+.footer-heading {
+    font-family: 'Raleway', sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
+
 .footer-text {
-    font-family: 'Roboto', sans-serif;;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #F4F4FD;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #F4F4FD;
 }
 
 .footer-logo {
