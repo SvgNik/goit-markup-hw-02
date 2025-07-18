@@ -16,7 +16,6 @@ ol {
 
 .logo {
   font-family: "Raleway", sans-serif;
-  font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -50,8 +49,6 @@ ol {
 
 .contact-links {
   font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
@@ -118,8 +115,6 @@ clip: rect(0 0 0 0);
 
 .benefits-text {
   font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
@@ -131,7 +126,6 @@ clip: rect(0 0 0 0);
 
 .team-heading {
   font-family: "Roboto", sans-serif;
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -158,8 +152,6 @@ clip: rect(0 0 0 0);
 
 .team-position {
   font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
@@ -170,7 +162,6 @@ clip: rect(0 0 0 0);
 }
 
 .portfolio-heading {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -194,8 +185,6 @@ clip: rect(0 0 0 0);
 
 .portfolio-text {
   font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
@@ -207,8 +196,6 @@ footer {
 
 .footer-text {
   color: #f4f4fd;
-  font-weight: 400;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
